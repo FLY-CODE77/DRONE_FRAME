@@ -17,4 +17,9 @@ Goal : Stability at high speed, acceleration
 # Second drawing completed 
 <img width="620" alt="스크린샷 2021-01-10 오전 9 28 04" src="https://user-images.githubusercontent.com/72845895/104111600-0bb25a80-5327-11eb-9b40-282f801286f3.png">
 add front arm brace and side armbrace
-perform like a box frame 
+perform like a box frame
+
+1.10.21
+# thrid canopy design & 3D 
+<img width="394" alt="스크린샷 2021-01-10 오전 10 46 26" src="https://user-images.githubusercontent.com/72845895/104112425-ec6cfa80-5331-11eb-8f5d-c4f112cfb801.png">
+
